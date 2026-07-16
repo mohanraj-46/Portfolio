@@ -1,38 +1,62 @@
-# Portfolio
+<div align="center">
 
-My personal portfolio website — a single-page site built with HTML, CSS, and JavaScript to showcase my background, projects, education, skills, and contact details.
+# ✨ Portfolio ✨
 
-🔗 **Live Demo:** [mohanraj-portfolio.netlify.app](https://mohanraj-portfolio.netlify.app/)
+### A personal portfolio website showcasing my profile, skills, projects, and education
 
-## About
+[![Netlify Status](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mohanraj-portfolio.netlify.app/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-This site introduces me as a Software Development Engineer with experience in automation, using tools like Python, JavaScript, Playwright, and Appium. It's designed as a quick, visual way for recruiters, collaborators, or visitors to learn about my background and get in touch.
+[![GitHub Repo stars](https://img.shields.io/github/stars/mohanraj-46/Portfolio?style=social)](https://github.com/mohanraj-46/Portfolio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mohanraj-46/Portfolio?style=social)](https://github.com/mohanraj-46/Portfolio/network)
 
-## Sections
+</div>
 
-- **Home** — Intro / hero section
-- **About** — Bio, current role, and education summary
-- **Projects** — Highlighted projects with links to live demos and source code
-- **Resume** — Education history, technical skills, and certifications
-- **Contact** — Contact form, email, and location map
+---
 
-## Tech Stack
+## 🚀 Overview
 
-- **HTML** — page structure and content
-- **CSS** — styling and layout (`style.css`, `styles.css`)
-- **JavaScript** — interactivity (`script.js`)
+I specialize in **software development and test automation**, with hands-on experience in Python, JavaScript, Playwright, and Appium. This portfolio consolidates my professional background, key projects, and credentials into an accessible, well-organized web presence — a central point of reference for recruiters, collaborators, and professional contacts.
 
-## Project Structure
+## 🧭 Sections
+
+| 🔹 Section | 📄 Description |
+|---|---|
+| 🏠 **Home** | Landing/hero section with a brief introduction |
+| 👤 **About** | Professional summary, current role, and background |
+| 💼 **Projects** | Selected projects with links to live demos and source code |
+| 📜 **Resume** | Education history, technical skills, and certifications |
+| 📬 **Contact** | Contact form, email, and location |
+
+## 🛠️ Tech Stack
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+| Technology | Purpose |
+|---|---|
+| 🟧 **HTML** | Page structure and content |
+| 🟦 **CSS** | Styling and layout (`style.css`, `styles.css`) |
+| 🟨 **JavaScript** | Interactivity (`script.js`) |
+
+## 📁 Project Structure
 
 ```
 Portfolio/
-├── index.html      # Main page markup
-├── script.js        # Interactivity (e.g. theme toggle, form handling)
-├── style.css         # Core styles
-└── styles.css      # Additional styles
+├── index.html     # Main page markup
+├── script.js      # Interactivity (e.g. theme toggle, form handling)
+├── style.css      # Core styles
+└── styles.css     # Additional styles
 ```
 
-## Getting Started
+## ⚡ Getting Started
 
 To run this project locally:
 
@@ -41,18 +65,34 @@ git clone https://github.com/mohanraj-46/Portfolio.git
 cd Portfolio
 ```
 
-Then simply open `index.html` in your browser — no build step or dependencies required.
+Open `index.html` directly in a browser. No build tools or dependencies are required. 🎉
 
-## Deployment
+## ☁️ Deployment
 
-The site is deployed via [Netlify](https://www.netlify.com/). Any changes pushed to the `main` branch can be connected to auto-deploy.
+<a href="https://mohanraj-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Deployed on Netlify"/>
+</a>
 
-## Contact
+The site is deployed using **Netlify**, with continuous deployment configured from the `main` branch.
 
-- **Email:** mohanrj1345@gmail.com
-- **LinkedIn:** [linkedin.com/in/mohanraj-m-457873202](https://www.linkedin.com/in/mohanraj-m-457873202/)
-- **GitHub:** [@mohanraj-46](https://github.com/mohanraj-46)
+## 📬 Contact
 
-## License
+<div align="left">
 
-This project is open for reference and personal use. Feel free to fork it for inspiration on building your own portfolio.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanrj1345@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanraj-s-developer/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanraj-46)
+
+</div>
+
+## 📜 License
+
+This project is shared for reference and personal use. Contributions and forks are welcome for those looking to build their own portfolio site. ⭐
+
+---
+
+<div align="center">
+
+Made with 💙 by **Mohanraj S**
+
+</div>
